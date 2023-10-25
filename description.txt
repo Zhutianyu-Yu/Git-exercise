@@ -1,0 +1,5 @@
+#### 作品集后续可以优化的方案 ####
+1. 视频部分 managing state and video and audio api
+2. Web bookbark
+3. React Table
+4. 学习模块
